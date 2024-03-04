@@ -1,0 +1,21 @@
+
+.content {
+    margin-top: 25vh;
+    margin-left: 10rem;
+    margin-right: 16rem;
+    display: flex;
+
+    padding: 2rem;
+  }
+
+.subhead {
+    font-size: 1.2em; 
+    margin-bottom: 2rem;
+  }
+  .written{
+    margin-left: 2rem;
+  }
+  .title {
+    font-size: 4em; 
+    color: #39542F;
+  }
